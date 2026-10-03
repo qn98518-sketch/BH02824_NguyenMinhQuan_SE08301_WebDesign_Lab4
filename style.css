@@ -1,0 +1,56 @@
+.site-header .brand h1{
+    text-align: center;
+    font-weight: bold;
+    font-size: 50px;
+    color: white;
+}
+
+.site-header .brand p{
+    text-align: right;
+    font-size: 25px;
+    color: white;
+
+    text-align: right;
+    margin-right: 5px;
+}
+
+.site-header .site-nav ul {
+    font-family: sans-serif;
+    font-size: 25px;
+    display: flex;
+    gap: 30px;
+    padding: 0;
+    margin: 0;
+}
+
+.site-header .site-nav ul li {
+    list-style-type: none;
+}
+
+.link-active{
+    color: #B3E5FC;
+}
+
+.link-accent{
+    color: green;
+}
+
+.link-caps{
+    color: white;
+    text-transform: uppercase;
+}
+
+main .demo-card h2{
+    text-align: center;
+}
+
+main .demo-card .demo-body{
+    margin-top: 20px;
+    display: flex;
+}
+
+.demo-text .lead{
+    color: green;
+    padding-bottom: 10px;
+}
+
